@@ -1,0 +1,4 @@
+to run the test type :
+1- python web_API/app.py
+2- python Explainer/explainer.py
+3- pytest -s test/test_slides_explain.py

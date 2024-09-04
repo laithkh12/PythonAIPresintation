@@ -1,0 +1,6 @@
+2024-06-27 21:26:51,704 - DEBUG - Using proactor: IocpProactor
+2024-06-27 21:26:51,705 - INFO - Slide processing script started.
+2024-06-27 21:26:51,706 - ERROR - Slide processing script ended with error: [WinError 3] The system cannot find the path specified: 'uploads'
+2024-06-27 21:27:21,586 - DEBUG - Using proactor: IocpProactor
+2024-06-27 21:27:21,588 - INFO - Slide processing script started.
+2024-06-27 21:27:21,589 - ERROR - Slide processing script ended with error: [WinError 3] The system cannot find the path specified: 'uploads'

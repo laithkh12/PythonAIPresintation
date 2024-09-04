@@ -1,0 +1,5 @@
+to run the client.py type in the terminal python Client/client.py <path>
+to check the uid run Invoke-RestMethod -Uri "http://127.0.0.1:5000/status?uid=<UID>" -Method GET
+to run the client.py type in the terminal python Client/client.py pptx_path email (optional)
+to run the client.py type in the terminal python Client/client.py uid <uid>
+to run the client.py type in the terminal python Client/client.py history <email>
